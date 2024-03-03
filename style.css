@@ -1,0 +1,43 @@
+html {
+  background-color: #788585;
+  font-family: Bahnschrift;
+}
+* {
+padding: 0;
+margin: 0;
+}
+header{
+  text-align: center;
+  background-color: #171A21;
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+  margin-bottom: 10px
+}
+h1{
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  padding-bottom: 15px;
+}
+.about{
+  margin-bottom: 10px;
+}
+
+.NTUCashflow{
+  color: white;
+  text-align: left;
+  margin-right:60%;
+  margin-left: 2%;
+  padding-right: 100px;
+}
+.SUTD{
+  color: white;
+  text-align: right;
+  margin-left: 60%;
+  margin-right: 2%;
+  padding-left: 100px;
+}
+body{
+  text-align: center;
+}
